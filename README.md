@@ -130,7 +130,9 @@ Los resultados específicos dependen de la posición inicial del cabezal y la di
 
 ## Autor
 
-Joshua Mendez
+Esteban David Muñoz Bautista
+Daniel Felipe Barrera Zapata
+Daniela Orobio
 
 ## Licencia
 
